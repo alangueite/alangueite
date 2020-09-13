@@ -1,4 +1,4 @@
-## Salut, moi c'est Alan ! <img src="https://raw.githubusercontent.com/alangueite/alangueite/master/wave.png" width="25px"> <img src="http://img.shields.io/badge/-Add me as friend-blue?logo=discord&color=fff">
+## Salut, moi c'est Alan ! <img src="https://raw.githubusercontent.com/alangueite/alangueite/master/wave.png" width="25px"> <a href="https://discord.com/users/179650847032999936"><img src="http://img.shields.io/badge/-Mon Profil Discord-blue?logo=discord&color=fff"></a>
 
 <!--
 **alangueite/alangueite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
