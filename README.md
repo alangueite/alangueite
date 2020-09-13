@@ -1,4 +1,4 @@
-<div align="center"><img src="https://raw.githubusercontent.com/alangueite/alangueite/master/wave.png" width="25px">
+<a href="#"><div align="center"><img src="https://raw.githubusercontent.com/alangueite/alangueite/master/wave.png" width="25px"></a>
   
 <a href="https://alangueite.fr"><img src="https://raw.githubusercontent.com/alangueite/alangueite/master/header.png"></a>
   
