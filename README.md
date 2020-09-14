@@ -7,5 +7,5 @@
 <div align="left"><a href="#"><img src="https://github-readme-stats.vercel.app/api?username=alangueite&theme=tokyonight&bg_color=fff&text_color=23272A&title_color=7289DA&hide_border=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangueite&layout=compact&card_width=250&theme=tokyonight&bg_color=fff&text_color=23272A&title_color=7289DA&hide_border=true"/></a></div>
 
-<div align="center"><h2>Who Am I?</h2><a href="#"><img src="https://raw.githubusercontent.com/alangueite/alangueite/master/guy.png" width="25px"></a>
+<div align="center"><h2>Who Am I? <a href="#"><img src="https://raw.githubusercontent.com/alangueite/alangueite/master/guy.png" width="25px"></h2></a>
 <p>Hi, I'm Alan, 16y.o... Work in progress lul. 
